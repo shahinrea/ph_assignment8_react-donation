@@ -1,0 +1,19 @@
+.recharts-default-legend {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+}
+/* 
+.recharts-surface {
+  height: 300px;
+  width: 300px;
+} */
+
+li {
+  display: flex !important;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}

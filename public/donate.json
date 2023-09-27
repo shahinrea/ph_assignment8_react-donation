@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "picture": "/images/Health.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Help provide clean and safe drinking water to underprivileged children in developing countries. Your support can make a life-changing difference by ensuring access to clean water and reducing waterborne diseases among vulnerable youth. Join us in this mission for a healthier and brighter future.",
+      "price": 45
+    },
+    {
+      "id": 2,
+      "picture": "/images/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Support initiatives that ensure quality education for children and young adults worldwide. Your contribution empowers the next generation, bridging gaps in education and creating opportunities for brighter futures. Together, we can make education accessible to all.",
+      "price": 27
+    },
+    {
+      "id": 3,
+      "picture": "/images/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Donate your gently used clothing to benefit those in need in your local community. Your contributions not only provide warmth and dignity but also reduce textile waste, contributing to a more sustainable future. Join us in making a positive impact, one garment at a time.",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "picture": "/images/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Support organizations working diligently to ensure access to nutritious and affordable food for all. Your contribution is a beacon of hope in the fight against hunger, improving food security for countless individuals and families in need.",
+      "price": 20
+    },
+    {
+      "id": 5,
+      "picture": "/images/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Donate your gently used clothing to benefit those in need in your local community. Your act of kindness not only provides essential clothing but also promotes a sense of belonging and care. Join us in making a difference, one piece of clothing at a time.",
+      "price": 28
+    },
+    {
+      "id": 6,
+      "picture": "/images/Health.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Help provide clean and safe drinking water to underprivileged children in developing countries. Your support is a lifeline for these young lives, preventing waterborne diseases and securing a brighter, healthier future. Join us in this vital mission.",
+      "price": 48
+    },
+    {
+      "id": 7,
+      "picture": "/images/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Support initiatives that ensure quality education for children and young adults worldwide. Your contribution fuels the journey to a brighter future by providing accessible and effective educational opportunities. Together, we empower learners and build a better world.",
+      "price": 40
+    },
+    {
+      "id": 8,
+      "picture": "/images/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Support organizations working tirelessly to ensure access to nutritious and affordable food for all. Your contribution is a beacon of hope in the fight against hunger, improving food security for countless individuals and families in need.",
+      "price": 50
+    },
+    {
+      "id": 9,
+      "picture": "/images/Health.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Help provide clean and safe drinking water to underprivileged children in developing countries. Your support can make a life-changing difference by ensuring access to clean water and reducing waterborne diseases among vulnerable youth. Join us in this mission for a healthier and brighter future.",
+      "price": 22
+    },
+    {
+      "id": 10,
+      "picture": "/images/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Support initiatives that ensure quality education for children and young adults worldwide. Your contribution empowers the next generation, bridging gaps in education and creating opportunities for brighter futures. Together, we can make education accessible to all.",
+      "price": 38
+    },
+    {
+      "id": 11,
+      "picture": "/images/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Donate your gently used clothing to benefit those in need in your local community. Your contributions not only provide warmth and dignity but also reduce textile waste, contributing to a more sustainable future. Join us in making a positive impact, one garment at a time.",
+      "price": 45
+    },
+    {
+      "id": 12,
+      "picture": "/images/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Support organizations working diligently to ensure access to nutritious and affordable food for all. Your contribution is a beacon of hope in the fight against hunger, improving food security for countless individuals and families in need.",
+      "price": 25
+    }
+  ]
+}
